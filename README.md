@@ -21,8 +21,8 @@ Repositorio con pequeños ejercicios sobre temas matemáticos trabajables en Pyt
 
 ### Demo
 
-[demo_log.gif]
-[demo_log_1.gif]
+!(demo_log.gif)
+!(demo_log_1.gif)
 
 ### Código
 
