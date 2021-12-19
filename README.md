@@ -26,4 +26,4 @@ Repositorio con pequeños ejercicios sobre temas matemáticos trabajables en Pyt
 
 ### Código
 
-tabla_de_verdad.py
+```tabla_de_verdad.py```
